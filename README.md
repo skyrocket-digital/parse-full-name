@@ -1,3 +1,5 @@
+Copy  of the original Parse full name package, this is for us to be able to have it available in case it gets taken down. the package is currently ysing [https://esm.sh/](https://esm.sh/) in order for it to be user in Webflow. take a look at [Five Rivers](https://www.fiveriversbank.com/contact-us) Forms where it is being used
+
 # parse-full-name
 
 [![Build](https://travis-ci.org/dschnelldavis/parse-full-name.svg?branch=master)](https://travis-ci.org/dschnelldavis/parse-full-name)
